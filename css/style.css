@@ -697,7 +697,7 @@ h6 {
 }
 
 .sticky-wrapper.is-sticky .site-navbar {
-    background-color: #0000;
+    background-color: #ff5733;
     -webkit-box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.6);
     box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.6);
 }
